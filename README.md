@@ -20,3 +20,8 @@ ERD
 -------------
   * tool : aquery ![Alt text](/3차(성적관리ERD).png)
 
+
+구현 결과
+--------------
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WWTpjycy4LI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://youtu.be/WWTpjycy4LI)](https://youtu.be/WWTpjycy4LI)
