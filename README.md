@@ -12,7 +12,7 @@
   * DB : MySQL
   * 웹 서버 : apache
   * WAS : tomcat
-  * open api : 인터파크 도서 검색
+  * open api : 인터파크 도서 검색, google chart
   
   
 
