@@ -17,13 +17,18 @@ public class LoginDAOImpl implements LoginDAO {
 	@Resource(name="jdbcTemplate")
 	private JdbcTemplate jdbcTemplateObject;
 
-	//¼ö°­»ı ·Î±×ÀÎ ¸Ş¼Òµå
+	//ìˆ˜ê°•ìƒ ë¡œê·¸ì¸ ë©”ì†Œë“œ
 	@Override
 	public Students studentLogin(Login login) {
-		return null;
+		String sql = "SELECT student_id, student_name\r\n" 
+				+ "    FROM students\r\n"
+				+ "    WHERE student_name = ? AND student_pw = ?";
+
+		return this.jdbcTemplateObject.queryForObject(sql, new StudentRowMapper_login()
+				, login.getName_(), login.getPw_());
 	}
 
-	//°­»ç ·Î±×ÀÎ ¸Ş¼Òµå
+	//ê°•ì‚¬ ë¡œê·¸ì¸ ë©”ì†Œë“œ
 	@Override
 	public Teachers teacherLogin(Login login) {
 
@@ -35,10 +40,15 @@ public class LoginDAOImpl implements LoginDAO {
 				, login.getName_(), login.getPw_());
 	}
 
-	//°ü¸®ÀÚ ·Î±×ÀÎ ¸Ş¼Òµå
+	//ê´€ë¦¬ì ë¡œê·¸ì¸ ë©”ì†Œë“œ
 	@Override
 	public Admin adminLogin(Login login) {
-		return null;
+		String sql = "SELECT admin_id, admin_name\r\n" 
+				+ "    FROM admins\r\n"
+				+ "    WHERE admin_name = ? AND admin_pw = ?";
+
+		return this.jdbcTemplateObject.queryForObject(sql, new AdminRowMapper_login()
+				, login.getName_(), login.getPw_());
 	}
 
 }
