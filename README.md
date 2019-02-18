@@ -25,7 +25,7 @@ ERD
 --------------
 https://youtu.be/WWTpjycy4LI
 
-![Alt text](/슬라이드1.PNG)
+![Alt text](/슬라이드1_.PNG)
 ![Alt text](/슬라이드3.PNG)
 ![Alt text](/슬라이드4.PNG)
 ![Alt text](/슬라이드5.PNG)
@@ -43,4 +43,4 @@ https://youtu.be/WWTpjycy4LI
 ![Alt text](/슬라이드17.PNG)
 ![Alt text](/슬라이드18.PNG)
 ![Alt text](/슬라이드19.PNG)
-![Alt text](/슬라이드20.PNG)
+![Alt text](/슬라이드20_.PNG)
