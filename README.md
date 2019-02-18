@@ -24,3 +24,23 @@ ERD
 구현 결과
 --------------
 https://youtu.be/WWTpjycy4LI
+
+![Alt text](/슬라이드1.PNG)
+![Alt text](/슬라이드3.PNG)
+![Alt text](/슬라이드4.PNG)
+![Alt text](/슬라이드5.PNG)
+![Alt text](/슬라이드6.PNG)
+![Alt text](/슬라이드7.PNG)
+![Alt text](/슬라이드8.PNG)
+![Alt text](/슬라이드9.PNG)
+![Alt text](/슬라이드10.PNG)
+![Alt text](/슬라이드11.PNG)
+![Alt text](/슬라이드12.PNG)
+![Alt text](/슬라이드13.PNG)
+![Alt text](/슬라이드14.PNG)
+![Alt text](/슬라이드15.PNG)
+![Alt text](/슬라이드16.PNG)
+![Alt text](/슬라이드17.PNG)
+![Alt text](/슬라이드18.PNG)
+![Alt text](/슬라이드19.PNG)
+![Alt text](/슬라이드20_.PNG)
