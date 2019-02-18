@@ -43,4 +43,4 @@ https://youtu.be/WWTpjycy4LI
 ![Alt text](/슬라이드17.PNG)
 ![Alt text](/슬라이드18.PNG)
 ![Alt text](/슬라이드19.PNG)
-![Alt text](/슬라이드20_.PNG)
+![Alt text](/슬라이드20_.png)
